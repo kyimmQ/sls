@@ -6,8 +6,8 @@ import (
 	"net/http"
 
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/thaovonguyen/sls/internal/repository"
-	"github.com/thaovonguyen/sls/internal/repository/dbrepo"
+	"github.com/kyimmQ/sls/internal/repository"
+	"github.com/kyimmQ/sls/internal/repository/dbrepo"
 )
  
 const port = 8080

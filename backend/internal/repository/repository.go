@@ -3,7 +3,7 @@ package repository
 import (
 	"database/sql"
 
-	"github.com/thaovonguyen/sls/internal/models"
+	"github.com/kyimmQ/sls/internal/models"
 )
 
 

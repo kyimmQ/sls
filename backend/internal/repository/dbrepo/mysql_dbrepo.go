@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"log"
 
-	"github.com/thaovonguyen/sls/internal/models"
+	"github.com/kyimmQ/sls/internal/models"
 )
 
 type MySQLDBRepo struct {
